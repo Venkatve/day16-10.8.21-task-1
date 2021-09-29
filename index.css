@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    }
+    body{
+    background-color:white;
+    }
+    :root{
+        font-size: 18px;
+      }
+    .box-head 
+        {
+     
+     background-color: black;
+     padding: 0.75rem;
+    
+    
+    }
+    
+    a{
+        color: white;
+        margin-left: 25px;
+        font-size: 80%;
+    }
+    .box-img{
+    
+        padding-top: 2.75rem;
+        padding-left: 7rem;
+    
+    }
+    .box-center{
+    
+        background-color:black;
+        margin: 0px;
+        
+    
+        
+        
+    }
+    .box-center1{
+        margin: 50px;
+        
+    }
+    .box-center3{
+        margin: 30px;
+        background-color: black;
+        padding: 100px;
+        
+        
+    }
+    
+    .box-bot{
+        
+        border:solid black 1px;
+        text-align: left;
+        padding: 1rem;
+        
+        
+    }
+    
+    .star{
+        text-align: center;
+        padding: 2rem;
+        font-weight: bolder;
+        
+    }
+    .maan{
+        padding: 8px;
+        border: 1px solid rgb(224, 204, 204);
+        border-radius: 5px;
+
+    }
+    .bottom1{
+    
+    
+    padding: 5rem;
+    
+    
+    }
+    
+   .head{
+       padding-top: 180px;
+       padding-bottom: 200px;
+   }
+    .nam{
+        text-align: center;
+    }
+    .box2{
+        background-color: black;
+        color: white;
+        text-align: left;
+    }
+    
+    .box-hq{
+        background-color:black;
+        color: white;
+        padding: 2rem;
+        
+        
+    }
+    .cont{
+        font-size: 15px;
+    opacity: 75%;
+    }
+    li{
+        
+        font-size: small;
+        text-align:left;
+    }
+    .til{
+        font-size: 20px;
+        font-weight: bold;
+        
+    }
+    .lite{
+    
+     color: rgb(175, 172, 172);   
+     text-align: left;
+     padding: 0rem;
+     font-size: 1rem;
+    }
+    
+    .box-down{
+      padding-top:60px;
+      padding-bottom: 80px;
+      padding-left: 20px;
+      text-align: left;
+      
+    }
+    .box-down1{
+        padding-top:60px;
+        padding-bottom: 80px;
+        padding-left: 20px;
+        text-align: left;
+        border-left: 1px solid rgb(70, 60, 60);
+        
+      }
+    .UI{
+        font-weight: lighter;
+    }
+    .box2{
+        text-align: left;
+    }
+    .tex{
+        font-size: 16px;
+    }
+    .blu{
+        color: rgb(73, 84, 185);
+    }
+    .box-down3{
+        padding-top:60px;
+        padding-bottom: 80px;
+        padding-left: 20px;
+        text-align:left;
+        border-left: 1px solid rgb(70, 60, 60);
+
+    }
+    .lissst{
+        text-align: left;
+    }
